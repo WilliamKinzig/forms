@@ -7,8 +7,6 @@ $(document).ready(function() {
     var verbInput = $("input#verb").val();
     var nounInput = $("input#noun").val();
 
-
-
     $(".person1").append("blah blah");
     $(".person2").append("blah blah");
     $(".animal").append("blah blah");
